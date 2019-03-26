@@ -1,0 +1,17 @@
+﻿  example3.cpp
+c:\users\ym\desktop\ray-tracing\ray tracing in a weekend\ray tracing in a weekend\ray tracing in a weekend\vec3.h(132): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\ym\desktop\ray-tracing\ray tracing in a weekend\ray tracing in a weekend\ray tracing in a weekend\vec3.h(146): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\ym\desktop\ray-tracing\ray tracing in a weekend\ray tracing in a weekend\ray tracing in a weekend\ray.h(14): error C2678: 二进制“*”: 没有找到接受“float”类型的左操作数的运算符(或没有可接受的转换)
+  c:\users\ym\desktop\ray-tracing\ray tracing in a weekend\ray tracing in a weekend\ray tracing in a weekend\vec3.h(73): note: 可能是“vec3 operator *(const vec3 &,float)”
+  c:\users\ym\desktop\ray-tracing\ray tracing in a weekend\ray tracing in a weekend\ray tracing in a weekend\vec3.h(65): note: 或    “vec3 operator *(const vec3 &,const vec3 &)”
+  c:\users\ym\desktop\ray-tracing\ray tracing in a weekend\ray tracing in a weekend\ray tracing in a weekend\ray.h(14): note: 尝试匹配参数列表“(float, const vec3)”时
+c:\users\ym\desktop\ray-tracing\ray tracing in a weekend\ray tracing in a weekend\ray tracing in a weekend\example3.cpp(5): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\ym\desktop\ray-tracing\ray tracing in a weekend\ray tracing in a weekend\ray tracing in a weekend\example3.cpp(6): error C2678: 二进制“*”: 没有找到接受“double”类型的左操作数的运算符(或没有可接受的转换)
+  c:\users\ym\desktop\ray-tracing\ray tracing in a weekend\ray tracing in a weekend\ray tracing in a weekend\vec3.h(73): note: 可能是“vec3 operator *(const vec3 &,float)”
+  c:\users\ym\desktop\ray-tracing\ray tracing in a weekend\ray tracing in a weekend\ray tracing in a weekend\vec3.h(65): note: 或    “vec3 operator *(const vec3 &,const vec3 &)”
+  c:\users\ym\desktop\ray-tracing\ray tracing in a weekend\ray tracing in a weekend\ray tracing in a weekend\example3.cpp(6): note: 尝试匹配参数列表“(double, vec3)”时
+c:\users\ym\desktop\ray-tracing\ray tracing in a weekend\ray tracing in a weekend\ray tracing in a weekend\example3.cpp(6): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\ym\desktop\ray-tracing\ray tracing in a weekend\ray tracing in a weekend\ray tracing in a weekend\example3.cpp(6): error C2678: 二进制“*”: 没有找到接受“float”类型的左操作数的运算符(或没有可接受的转换)
+  c:\users\ym\desktop\ray-tracing\ray tracing in a weekend\ray tracing in a weekend\ray tracing in a weekend\vec3.h(73): note: 可能是“vec3 operator *(const vec3 &,float)”
+  c:\users\ym\desktop\ray-tracing\ray tracing in a weekend\ray tracing in a weekend\ray tracing in a weekend\vec3.h(65): note: 或    “vec3 operator *(const vec3 &,const vec3 &)”
+  c:\users\ym\desktop\ray-tracing\ray tracing in a weekend\ray tracing in a weekend\ray tracing in a weekend\example3.cpp(6): note: 尝试匹配参数列表“(float, vec3)”时

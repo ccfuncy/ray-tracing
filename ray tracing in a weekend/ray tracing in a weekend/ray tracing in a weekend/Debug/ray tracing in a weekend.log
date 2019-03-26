@@ -1,0 +1,3 @@
+﻿  example1.cpp
+c:\users\ym\desktop\ray-tracing\ray tracing in a weekend\ray tracing in a weekend\ray tracing in a weekend\example1.cpp(11): warning C4305: “初始化”: 从“double”到“float”截断
+  ray tracing in a weekend.vcxproj -> C:\Users\YM\Desktop\ray-tracing\ray tracing in a weekend\ray tracing in a weekend\Debug\ray tracing in a weekend.exe
